@@ -5,7 +5,7 @@ Clear-Host
 
 Write-Host ""
 Write-Host "======================================="
-Write-Host "      Akshat Developer Bootstrap"
+Write-Host "         Developer Bootstrap"
 Write-Host "======================================="
 Write-Host ""
 Write-Host "[1] Safe Debloat"
