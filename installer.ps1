@@ -1,5 +1,4 @@
-```powershell
-$base = "https://bootstrap.akshatmehta.com"
+$base = "https://provision.akshatmehta.com"
 
 Clear-Host
 
@@ -44,4 +43,3 @@ switch ($choice) {
         Write-Host "Exiting..."
     }
 }
-```
